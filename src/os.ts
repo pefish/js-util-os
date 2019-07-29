@@ -7,6 +7,10 @@ import ShellHelper from '@pefish/js-helper-shell'
  */
 export default class OsUtil {
 
+  static getHomeDir (): string {
+    return os.homedir()
+  }
+
   static getArgv (index: number): string {
     //index:获取第几个参数
     return process.argv[index + 1]
