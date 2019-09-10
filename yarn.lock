@@ -7,19 +7,19 @@
   resolved "https://registry.yarnpkg.com/@pefish/js-error/-/js-error-0.1.1.tgz#d3e6f4a1362206aaf73afd628465364c3a581ed2"
   integrity sha512-JNLY0twr0fVEnGgrMetZsBZrStDGmHDX0dY9amDChTzVqrGEd6dvpzkR9BxINGhWgeAX6naTzI2FZn3ZwGlrsw==
 
-"@pefish/js-helper-shell@^0.0.5":
-  version "0.0.5"
-  resolved "https://registry.yarnpkg.com/@pefish/js-helper-shell/-/js-helper-shell-0.0.5.tgz#d8d923ee997b0973b8f22e61ffbba022273c6693"
-  integrity sha512-yI/G7VKlaxAZqXpm9oalfTuNhdMXUZqEnDPQbPQoWiEc1d59ROMdoWxcFCaqli9Ps/T8bc0U3KRY0kvs1mt9AQ==
+"@pefish/js-helper-shell@^0.0.6":
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/@pefish/js-helper-shell/-/js-helper-shell-0.0.6.tgz#0934acd43554c40ae11ce92ba5da92ff2f5fc95a"
+  integrity sha512-qOF5i8Fy+lleOAG00Q1SOwkYkndwX33fVNrNCf66DaTzFlExTUT3hc+NnRnT8zf6lOpvBDMpkECD1J/vJnvy0Q==
   dependencies:
     "@pefish/js-error" "^0.1.1"
-    "@pefish/js-node-assist" "^0.6.6"
+    "@pefish/js-node-assist" "^0.6.9"
     shelljs "^0.8.3"
 
-"@pefish/js-node-assist@^0.6.6":
-  version "0.6.6"
-  resolved "https://registry.yarnpkg.com/@pefish/js-node-assist/-/js-node-assist-0.6.6.tgz#62673762c0dcc8ce3faf20c8bb777008fb69a084"
-  integrity sha512-IvdZCVDZXi2oc25XlKEHC7bCMaTNyDmYN+wPpcRQOEpa1A4JEsscIVWbw33zNMeKWuOfVWdFdJopgxwchRHx3A==
+"@pefish/js-node-assist@^0.6.9":
+  version "0.6.9"
+  resolved "https://registry.yarnpkg.com/@pefish/js-node-assist/-/js-node-assist-0.6.9.tgz#60d50c0f82469441d4cd22b51f2645585170f414"
+  integrity sha512-acqJwvoBDVem8hqxJ7ctdPoRuuyPLXEFjPeIzQy12x+zs4ktlYqQx0p+cH61pILRM4Z0RDDeK6MZYRSUDp6lAA==
   dependencies:
     "@pefish/js-error" "^0.1.1"
     bignumber.js "^8.1.1"

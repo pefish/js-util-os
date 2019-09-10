@@ -1,6 +1,6 @@
 {
   "name": "@pefish/js-util-os",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "os util": "os util",
   "keywords": [
     "common",
@@ -28,7 +28,7 @@
     "prepublish": "yarn build"
   },
   "dependencies": {
-    "@pefish/js-helper-shell": "^0.0.5"
+    "@pefish/js-helper-shell": "^0.0.6"
   },
   "devDependencies": {
     "@types/chai": "^4.1.7",

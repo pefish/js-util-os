@@ -2,6 +2,7 @@
  * os工具类
  */
 export default class OsUtil {
+    static getHomeDir(): string;
     static getArgv(index: number): string;
     static getEnv(envName: string): string;
     static getPid(): number;
